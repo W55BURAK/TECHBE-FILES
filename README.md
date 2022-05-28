@@ -1,26 +1,31 @@
 # TECHBE-FILES
-TR :
-Bu dosyaları ben şahsen kullanıyorum ben kanalımda yapacağım ( kullandığım ) şeyleri burda paylaşacağım bu şeyleri indirip kurabilirsiniz 
-VE BUNLARIN ÇOĞU malwat.ch ve diğer sitelerden alınmıştır
-Unutmayın ki burdan genel olarak profesyenel kimselerin anlayacağı şeyler vardır
-YT CHANNEL : TECHBE
+Hi, i'm TechBE
+Merhaba ben TechBE
 
+My programs are this GB
+![image](https://user-images.githubusercontent.com/96684582/170818549-8c5adfb1-f85a-4dcc-8d1d-6c34d09423ec.png)
 
-BUNLAR BASIT KİMSELERİNDİR !
-Exe virüs testlerinde kullanılacak .exe files
-Winitor
-ExeInfoPE
+Ben burda dosyaların çoğunu yükleyerek işlemler yaparım
+I subscribe theese Channels
+Enderman 
+Siam Alam
+Tech Sanjeet
+Fly Tech's videos
+Come on Windows
+Come on android
+Come on Linux
+Phane
+Nobel Tech
+Arsen Tech
+Vibe Tech
 
+Abone olmayı unutmayın 
 
-
-başlat bölümünü değiştiren uygulamalr pc için
-TaskbarX
-Lively walpaper 
-
-
-Linux ilgisi olanlar için
-WSL ARCH FOR LİNUX
-windows subsytem for linux preiw
+BÜTÜN DOSYALAR TechBE tarafından paylaşılmıyor!
+Abone olduklarımdan size bilgi veriyorum 
+Ama Chat 3000'nı ben kodladım
+Çoğu şeyi ben yaptım 
+İyi günler
 
 
 
